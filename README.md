@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @nxhxttxr
-- 👀 I’m interested in small python projects
-- 🌱 I’m currently learning discord.py
-- 💞️ I’m looking to collaborate on [REDACTED]
-- 📫 Discord: Insignia#2888
+Some people have the skills but don't know what to build with them. I know what to build, but I don't have the skills to do so.
 
 <!---
 nxhxttxr/nxhxttxr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
