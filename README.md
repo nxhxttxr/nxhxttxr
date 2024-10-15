@@ -1,4 +1,5 @@
 Some people have the skills but don't know what to build with them. I know what to build, but I don't have the skills to do so.
+
 I want to be Richard Hendricks but I'm Erlich Bachman.
 
 Random hot takes:
